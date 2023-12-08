@@ -68,7 +68,7 @@ const Header = ({ pageTitle }) => {
                 <Image src={phoneIcon.src} alt="" />
               </div>
               <div className="main-menu-wrapper__call-number">
-                <p>Pozovite nas</p>
+                <p>Позовите нас</p>
                 <h5>
                   <a href={`tel:${phone.split(" ").join("")}`}> {phone}</a>
                 </h5>

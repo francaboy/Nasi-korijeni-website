@@ -2,28 +2,28 @@ import smallImage from "@/images/resources//welcome-two-small-img-1.png";
 import image from "@/images/resources/welcome-two-img-1.png";
 
 const welcomeTwo = {
-  tagline: "Dobrodošli na našu webstranicu",
-  title: "Zajedno Kroz Kulturu: \n Sve o Kulturnim Događajima",
+  tagline: "Добродошли на нашу вебстраницу",
+  title: "Заједно Кроз Културу: \n Све о Културним Догађајима",
   image,
   smallImage,
-  bigText: "KORIJENI",
+  bigText: "КОРИЈЕНИ",
   rightText:
-    "Otkrijte bogatstvo naše tradicije kroz dinamične događaje i inicijative koje spajaju zajednicu i njeguju kulturno naslijeđe.",
+    "Откријте богатство наше традиције кроз динамичне догађаје и иницијативе које спајају заједницу и његују културно наслијеђе.",
   points: [
     {
       id: 1,
-      title: "Kalendarski Biseri",
-      text: "Otkrijte raznolikost naše zajednice kroz pažljivo odabrane kulturne događaje – tradicionalne festivale i savremene umjetničke performanse.",
+      title: "Календарски Бисери",
+      text: "Откријте разноликост наше заједнице кроз пажљиво одабране културне догађаје – традиционалне фестивале и савремене умјетничке перформансе.",
     },
     {
       id: 2,
-      title: "Umjetnost u Fokusu",
-      text: "Prostor posvećen umjetnosti koja odražava dušu našeg nasljeđa kroz izložbe, koncerte i radionice.",
+      title: "Умјетност у Фокусу",
+      text: "Простор посвећен умјетности која одражава душу нашег насљеђа кроз изложбе, концерте и радионице.",
     },
     {
       id: 3,
-      title: "Zajedno u Djelovanju",
-      text: "Naše udruženje potiče na volontiranje, organizaciju događaja i pokretanje kulturnih projekata koji ne samo oblikuju, već i ojačavaju budućnost naše zajednice.",
+      title: "Заједно у Дјеловању",
+      text: "Наше удружење потиче на волонтирање, организацију догађаја и покретање културних пројеката који не само обликују, већ и ојачавају будућност наше заједнице.",
     },
   ],
 };

@@ -49,7 +49,7 @@ const SiteFooter = () => {
             <Row>
               <Col xl={3} lg={4} className="animated fadeInUp">
                 <div className="footer-widget__column footer-widget__contact">
-                  <h3 className="footer-widget__title">Kontakt</h3>
+                  <h3 className="footer-widget__title">Контакт</h3>
                   <p className="footer-widget__contact-text">
                     {address} <br /> {city}
                   </p>
@@ -118,7 +118,7 @@ const SiteFooter = () => {
                       <i className="fa fa-check"></i>
                     </div>
                     <div className="footer-widget__newsletter-bottom-text">
-                      <p>Slažem se sa pravilima i politikom privatnosti</p>
+                      <p>Слажем се са правилима и политиком приватности</p>
                     </div>
                   </div>
                 </div>
@@ -133,8 +133,8 @@ const SiteFooter = () => {
             <Col xl={12}>
               <div className="site-footer__bottom-inner">
                 <p className="site-footer__bottom-text">
-                  ©{year} Udruženje građana &quot;Naši korijeni&quot; Banja
-                  Luka. Sva prava zadržana. Made by
+                  ©{year} Удружење грађана &quot;Наши коријени&quot; Бања Лука.
+                  Сва права задржана. Made by
                   <a href="https://srdjanmilosevic.com/"> {author}</a>
                 </p>
               </div>

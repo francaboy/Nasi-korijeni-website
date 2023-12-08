@@ -51,7 +51,7 @@ const WelcomeTwo = () => {
                 ))}
               </ul>
               <Link href="/o-nama" legacyBehavior>
-                <a className="thm-btn welcome-two__btn">Pročitajte o nama</a>
+                <a className="thm-btn welcome-two__btn">Прочитајте о нама</a>
               </Link>
             </div>
           </Col>

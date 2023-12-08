@@ -2,11 +2,11 @@ import bg from "@/images/shapes/site-footer-top-shape.png";
 
 const footerData = {
   bg,
-  title: "Slobodno nas pozovite",
+  title: "Слободно нас позовите",
   phone: "066 11 99 77",
   email: "info@nasikorijeni.com",
-  address: "Knjaza Miloša 10E",
-  city: "Banja Luka, Republika Srpska",
+  address: "Књаза Милоша 10E",
+  city: "Бања Лука, Република Српска",
   year: new Date().getFullYear(),
   author: "Franca",
   socials: [
@@ -30,22 +30,22 @@ const footerData = {
   links: [
     {
       id: 1,
-      title: "Početna",
+      title: "Почетна",
       href: "/",
     },
     {
       id: 2,
-      title: "O nama",
+      title: "О нама",
       href: "/o-nama",
     },
     {
       id: 3,
-      title: "Galerija",
+      title: "Галерија",
       href: "/galerija",
     },
     {
       id: 4,
-      title: "Kontakt",
+      title: "Контакт",
       href: "/kontakt",
     },
   ],

@@ -26,7 +26,7 @@ const Layout = ({ children, pageTitle }) => {
     <>
       <Head>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>{pageTitle} | Naši korijeni Banja Luka</title>
+        <title>{pageTitle} | Наши Коријени Бања Лука</title>
       </Head>
       <Preloader loading={loading} />
       <main

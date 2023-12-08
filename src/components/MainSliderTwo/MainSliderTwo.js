@@ -44,7 +44,7 @@ const MainSliderTwo = () => {
                   <div className="main-slider-two__btn-video animated fadeInUp">
                     <div className="main-slider-two__btn">
                       <Link href="/o-nama" legacyBehavior>
-                        <a className="thm-btn">Saznajte više</a>
+                        <a className="thm-btn">Сазнајте више</a>
                       </Link>
                     </div>
                     <div className="main-slider-two__video">
@@ -59,7 +59,7 @@ const MainSliderTwo = () => {
                       </div>
                       <div className="main-slider-two__video-content">
                         <h5>
-                          Pogledajte <br /> Video
+                          Погледајте <br /> видео
                         </h5>
                       </div>
                     </div>
