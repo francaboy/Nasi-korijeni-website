@@ -1,6 +1,6 @@
 import phoneIcon from "@/images/icon/phone-icon.png";
 import logo1 from "@/images/resources/logo-1.svg";
-import logo2 from "@/images/resources/logo-2.svg";
+import logo2 from "@/images/resources/logo-23.png";
 
 const navItems = [
   {
