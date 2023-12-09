@@ -71,7 +71,7 @@ const SiteFooter = () => {
               </Col>
               <Col xl={4} lg={4} className="animated fadeInUp">
                 <div className="footer-widget__column footer-widget__links clearfix">
-                  <h3 className="footer-widget__title">Linkovi</h3>
+                  <h3 className="footer-widget__title">Линкови</h3>
                   <ul className="footer-widget__links-list list-unstyled clearfix">
                     {links.slice(0, 5).map(({ id, title, href }) => (
                       <li key={id}>
@@ -102,7 +102,7 @@ const SiteFooter = () => {
                     <div className="footer-widget__newsletter-input-box">
                       <input
                         type="email"
-                        placeholder="E-mail adresa"
+                        placeholder="E-маил адреса"
                         name="email"
                       />
                       <button
@@ -118,7 +118,7 @@ const SiteFooter = () => {
                       <i className="fa fa-check"></i>
                     </div>
                     <div className="footer-widget__newsletter-bottom-text">
-                      <p>Слажем се са правилима и политиком приватности</p>
+                      <p>Слажем се са политиком приватности</p>
                     </div>
                   </div>
                 </div>

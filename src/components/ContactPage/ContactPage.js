@@ -41,9 +41,7 @@ const ContactPage = () => {
                             {...register(name, { required })}
                           />
                           {errors[name] && (
-                            <span className="error">
-                              Ovo polje je obavezno.
-                            </span>
+                            <span className="error">Ово поље је обавезно.</span>
                           )}
                         </div>
                       </Col>
@@ -60,11 +58,11 @@ const ContactPage = () => {
                         })}
                       ></textarea>
                       {errors[textarea.name] && (
-                        <span className="error">Ovo polje je obavezno.</span>
+                        <span className="error">Ово поље је обавезно.</span>
                       )}
                     </div>
                     <button type="submit" className="thm-btn comment-form__btn">
-                      Pošalji poruku
+                      Пошаљи поруку
                     </button>
                   </Col>
                 </Row>
