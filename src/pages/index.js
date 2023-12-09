@@ -16,7 +16,7 @@ import React from "react";
 
 const Home = () => {
   return (
-    <Layout pageTitle="Početna">
+    <Layout pageTitle="Почетна">
       <MainSliderTwo />
       <FeatureOne />
       <WelcomeTwo />

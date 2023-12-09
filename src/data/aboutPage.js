@@ -3,12 +3,12 @@ import badge from "@/images/resources/about-page-badge.png";
 const aboutPage = {
   images: ["about-page-img-1.png", "about-page-img-2.png"],
   badge,
-  tagline: "Naši korijeni Banja Luka",
-  title: "Saznajte više o našem udruženju",
+  tagline: "Наши коријени Бања Лука",
+  title: "Сазнајте више о нашем удружењу",
   text1:
-    "Udruženje građana „Naši korijeni“ predstavlja dinamičnu zajednicu posvećenu očuvanju i promociji kulturnog naslijeđa. Fokusirani na oživljavanje tradicije i jačanje zajedničkih veza, naša misija je da stvorimo prostor gde se građani mogu povezati kroz različite kulturne događaje i festivale.",
+    "Удружење грађана „Наши коријени“ представља динамичну заједницу посвец́ену очувању и промоцији културног наслијеђа. Фокусирани на оживљавање традиције и јачање заједничких веза, наша мисија је да створимо простор где се грађани могу повезати кроз различите културне догађаје и фестивале.",
   text2:
-    "Naslijeđe je most između juče i sutra, a mudrost je korijen koji hrani naše puteve.",
+    "Наслијеђе је мост између јуче и сутра, а мудрост је коријен који храни наше путеве.",
 };
 
 export default aboutPage;

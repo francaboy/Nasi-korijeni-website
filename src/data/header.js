@@ -5,27 +5,27 @@ import logo2 from "@/images/resources/logo-2.png";
 const navItems = [
   {
     id: 1,
-    name: "Početna",
+    name: "Почетна",
     href: "/",
     subNavItems: [],
   },
   {
     id: 2,
-    name: "O nama",
+    name: "О нама",
     href: "/o-nama",
     subNavItems: [],
   },
 
   {
     id: 4,
-    name: "Galerija",
+    name: "Галерија",
     href: "/galerija",
     subNavItems: [],
   },
 
   {
     id: 6,
-    name: "Kontakt",
+    name: "Контакт",
     href: "/kontakt",
     subNavItems: [],
   },

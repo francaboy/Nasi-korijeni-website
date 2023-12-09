@@ -1,33 +1,33 @@
 const howItWorks = {
-  tagline: "NAŠI KORIJENI BANJA LUKA",
-  title: "idea to launch",
+  tagline: "НАШИ КОРИЈЕНИ БАЊА ЛУКА",
+  title: "Наше главне вриједности",
   processes: [
     {
       id: 1,
       bg: "how-it-works__img-1.png",
 
-      title: "Tradicija",
+      title: "Традиција",
     },
     {
       id: 2,
       bg: "how-it-works__img-2.png",
 
-      title: "Nasljeđe ",
+      title: "Насљеђе",
     },
     {
       id: 3,
       bg: "how-it-works__img-3.png",
 
-      title: "Običaji",
+      title: "Обичаји",
     },
     {
       id: 4,
       bg: "how-it-works__img-4.png",
 
-      title: "Identitet",
+      title: "Идентитет",
     },
   ],
-  text: "U našem udruženju tradicija nije samo riječ – ona je živo iskustvo koje pulsira kroz sve aspekte našeg postojanja. Svaki događaj, svaki običaj i svaki detalj našeg nasljeđa odražava nas kao zajednicu koja cijeni svoje korijene.",
+  text: "У нашем удружењу традиција није само ријеч – она је живо искуство које пулсира кроз све аспекте нашег постојања. Сваки догађај, сваки обичај и сваки детаљ нашег насљеђа одражава нас као заједницу која цијени своје коријене.",
 };
 
 export default howItWorks;

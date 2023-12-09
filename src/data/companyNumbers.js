@@ -4,8 +4,8 @@ import videoBg from "@/images/backgrounds/company-numbers-video-bg.jpg";
 const companyNumbers = {
   bg,
 
-  tagline: "NAŠI KORIJENI BANJA LUKA",
-  title: "Udruženje koje pomjera",
+  tagline: "НАШИ КОРИЈЕНИ БАЊА ЛУКА",
+  title: "Удружење које помјера",
   counters: [
     {
       id: 1,
@@ -14,7 +14,7 @@ const companyNumbers = {
     },
     {
       id: 2,
-      title: "Organizovanih manifestacija",
+      title: "Организованих манифестација",
       count: 5,
     },
   ],

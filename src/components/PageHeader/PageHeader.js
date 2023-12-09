@@ -15,7 +15,7 @@ const PageHeader = ({ page = "", title = "", parent = "" }) => {
           <ul className="thm-breadcrumb list-unstyled">
             <li>
               <Link href="/" legacyBehavior>
-                Početna
+                Почетна
               </Link>
             </li>{" "}
             {parent && (

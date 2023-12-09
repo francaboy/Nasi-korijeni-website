@@ -6,14 +6,14 @@ const twoBoxes = [
     id: 1,
     bg: bg1,
 
-    title: "Ljubav prema otadžbini ne zna za tuđe granice.",
+    title: "Љубав према отаџбини не зна за туђе границе.",
     slide: "slideInLeft",
   },
   {
     id: 2,
     bg: bg2,
 
-    title: "Otadžbina je svuda gdje je srce.",
+    title: "Отаџбина је свуда гдје је срце.",
     slide: "slideInRight",
   },
 ];

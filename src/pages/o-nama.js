@@ -10,8 +10,8 @@ import React from "react";
 
 const O_nama = () => {
   return (
-    <Layout pageTitle="O nama">
-      <PageHeader page="O nama" title="O nama" />
+    <Layout pageTitle="О нама">
+      <PageHeader page="О нама" title="О нама" />
       <AboutPage />
       <BrandOne />
       <DesignStudio className="services-page-design-studio" />

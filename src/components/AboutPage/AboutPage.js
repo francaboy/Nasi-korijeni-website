@@ -39,7 +39,7 @@ const AboutPage = () => {
               <p className="about-page__right-text-1">{text1}</p>
               <h4 className="about-page__right-text-2">{text2}</h4>
               <Link href="/kontakt" legacyBehavior>
-                <a className="thm-btn abut-page__btn">Pronađite nas</a>
+                <a className="thm-btn abut-page__btn">Пронађите нас</a>
               </Link>
             </div>
           </Col>

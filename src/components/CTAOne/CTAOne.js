@@ -17,13 +17,13 @@ const CTAOne = () => {
                 </div>
                 <div className="cta-one__title-box">
                   <h2 className="cta-one__title">
-                    Ako imate bilo kakvo pitanje <br /> obratite nam se!
+                    Ако имате било какво питање <br /> обратите нам се!
                   </h2>
                 </div>
               </div>
               <div className="cta-one__right">
                 <Link href="/kontakt" legacyBehavior>
-                  <a className="thm-btn cta-one__btn">Kontaktirajte Nas</a>
+                  <a className="thm-btn cta-one__btn">Контактирајте Нас</a>
                 </Link>
               </div>
             </div>
