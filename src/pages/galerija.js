@@ -5,8 +5,8 @@ import React from "react";
 
 const Galerija = () => {
   return (
-    <Layout pageTitle="Galerija">
-      <PageHeader title="Galerija" />
+    <Layout pageTitle="Галерија">
+      <PageHeader title="Галерија" />
       <ProjectOne projectPage />
     </Layout>
   );

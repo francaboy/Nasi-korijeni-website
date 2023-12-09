@@ -32,7 +32,7 @@ const DesignStudio = ({ className = "" }) => {
           <Col lg={12}>
             <div className="design-studio__inner">
               <h2 className="design-studio__title">
-                Pogledajte <span>video</span> naših <br /> događaja
+                Погледајте <span>видео</span> наших <br /> догађаја
               </h2>
               <div className="design-studio__video-link">
                 <a

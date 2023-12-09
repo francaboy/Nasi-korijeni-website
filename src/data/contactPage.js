@@ -1,34 +1,34 @@
 const contactPage = {
-  title: "Imate pitanje?",
-  tagline: "Kontaktirajte nas",
+  title: "Имате питање?",
+  tagline: "Контактирајте нас",
   inputs: [
     {
       type: "text",
-      placeholder: "Vaše ime",
+      placeholder: "Ваше име",
       name: "name",
       required: true,
     },
     {
       type: "email",
-      placeholder: "E-mail adresa",
+      placeholder: "Е-маил адреса",
       name: "email",
       required: true,
     },
     {
       type: "text",
-      placeholder: "Telefon",
+      placeholder: "Tелефон",
       name: "phone",
       required: false,
     },
     {
       type: "email",
-      placeholder: "Tema",
+      placeholder: "Тема",
       name: "subject",
       required: true,
     },
     {
       type: "",
-      placeholder: "Napišite poruku...",
+      placeholder: "Напишите поруку...",
       name: "message",
       required: true,
     },

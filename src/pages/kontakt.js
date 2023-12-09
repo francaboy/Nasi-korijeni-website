@@ -7,8 +7,8 @@ import React from "react";
 
 const Kontakt = () => {
   return (
-    <Layout pageTitle="Kontakt">
-      <PageHeader title="Kontakt" />
+    <Layout pageTitle="Контакт">
+      <PageHeader title="Контакт" />
 
       <ContactPage />
       <GoogleMap />
