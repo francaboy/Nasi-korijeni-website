@@ -2,7 +2,7 @@ import bg from "@/images/backgrounds/design-studio-bg.png";
 
 const designStudio = {
   bg,
-  videoId: "iywJbxh1Oh8",
+  videoId: "0v-4N2WabKg",
 };
 
 export default designStudio;

@@ -6,7 +6,7 @@ const mainSliderTwo = {
   bg,
   image,
 
-  videoId: "iywJbxh1Oh8",
+  videoId: "0v-4N2WabKg",
   socials: [
     {
       title: "facebook",
