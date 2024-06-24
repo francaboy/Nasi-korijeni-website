@@ -3,13 +3,13 @@ import Layout from "@/components/Layout/Layout";
 import PageHeader from "@/components/PageHeader/PageHeader";
 import React from "react";
 
-const Blog = () => {
+const Dogadjaji = () => {
   return (
-    <Layout pageTitle="Blog">
-      <PageHeader page="Blog" title="Blog Posts" />
+    <Layout pageTitle="Догађаји">
+      <PageHeader page="Догађаји" title="ЗАВИЧАЈ ФЕСТИВАЛ" />
       <BlogPage />
     </Layout>
   );
 };
 
-export default Blog;
+export default Dogadjaji;

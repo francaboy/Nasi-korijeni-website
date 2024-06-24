@@ -15,6 +15,13 @@ const navItems = [
     href: "/o-nama",
     subNavItems: [],
   },
+  {
+    id: 5,
+    name: "Завичај фестивал",
+    href: "/dogadjaji",
+    subNavItems: [],
+  },
+  
 
   {
     id: 4,

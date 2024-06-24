@@ -5,9 +5,9 @@ import { Col, Container, Row } from "react-bootstrap";
 import ReactPlayer from "react-player";
 
 const { title, texts, name, category, date, socials } = projectDetails;
-const videoUrl = "https://www.youtube.com/watch?v=KGJybrtmNy8";
+const videoUrl = "https://www.youtube.com/watch?v=cWkgAtLSe8k";
 
-const ProjectDetailsPage = () => {
+const Zorica1 = () => {
   return (
     <section className="project-details">
       <Container>
@@ -22,15 +22,22 @@ const ProjectDetailsPage = () => {
           <Row>
             <Col xl={8} lg={7}>
               <div className="project-details__content-left">
-                <h3 className="project-details__content-title">{title}</h3>
-                {texts.map((text, i) => (
-                  <p key={i} className={`project-details__content-text-${i + 1}`}>
-                    {text}
+                <h3 className="project-details__content-title">ЗОРИЦА БРУНЦЛИК</h3>
+                
+                <p className="project-details__content-text-1">
+                    Vođeni idejom očuvanja kulturne baštine i tradicije kroz različite kulturne događaje i festivale, a nakon uspješnih organizovanja božićnih koncerata i narodnih zborova koji su okupili ogroman broj ljudi, došli smo na ideju da organizujemo veliki narodni festival – Zavičaj fest, u srcu našeg grada, na tvrđavi Kastel.
+                    </p>
+                    <p className="project-details__content-text-1"> Prvi Zavičaj fest zatvaramo u subotu 10. Avgusta najvećom zvjezdom krajiške muzike i pjesme Bajom Malim Knindžom.
+<br />
+Budite dio jedinstvenog muzičkog događaja koji se po prvi put organizuje na ovim prostorima. Sačuvaj svoje korijene!
+<br />
+Vidimo se na Kastelu!
+
                   </p>
-                ))}
+                
                 <div className="project-details__cta">
                   <a 
-                    href="https://gigstix.ba/event/zavicaj-fest-nikola-rokvic-banja-luka-08-avgust-2024/" 
+                    href="https://gigstix.ba/event/zavicaj-fest-zorica-brunclik-banja-luka-09-avgust-2024/" 
                     className="cta-button"
                     target="_blank" 
                     rel="noopener noreferrer"
@@ -65,7 +72,7 @@ const ProjectDetailsPage = () => {
                         Датум:
                       </h5>
                       <p className="project-details__details-info-name">
-                        {date}
+                      9 Август, 2024
                       </p>
                     </div>
                   </div>
@@ -93,4 +100,4 @@ const ProjectDetailsPage = () => {
   );
 };
 
-export default ProjectDetailsPage;
+export default Zorica1;

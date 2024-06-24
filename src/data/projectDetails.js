@@ -2,35 +2,33 @@ import image from "@/images/resources/project-details-img.jpg";
 
 const projectDetails = {
   image,
-  title: "Naziv događaja",
+  title: "Никола Роквић",
   texts: [
-    "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy.",
-    "Tincidunt elit magnis nulla facilisis sagittis sapien nunc Many desktop publishing packages and web page editors amet ultrices dolores sit ipsum velit purus aliquet massa fringilla leo orci. Sapien nunc amet ultrices.",
+    "Вођени идејом очувања културне баштине и традиције кроз различите културне догађаје и фестивале, а након успјешних организовања божићних концерата и народних зборова који су окупили огроман број људи, дошли смо на идеју да организујемо велики народни фестивал – Завичај фест, у срцу нашег града, на тврђави Кастел.",
+    "У четвртак, 8. Августа, фестивал ће отворити велика регионална звјезда Никола Роквић, а програм ће употпунити вишегодишњи освајач најпрестижнијих награда на највећем сабору трубача у Гучи, Дејан Петровић са Биг бендом.",
+    "Будите дио јединственог музичког догађаја који се по први пут организује на овим просторима.",
+    "Сачувај своје коријене! Видимо се на Кастелу!",
   ],
-  points: [
-    "Take a look at our round up of the best shows",
-    "It has survived not only five centuries",
-    "Lorem Ipsum has been the ndustry standard dummy text",
-  ],
-  name: "Novodgišnja proslava",
-  category: "Koncert",
-  date: "31 Decembar, 2023",
+
+  name: "Завичај фестивал",
+  category: "Фестивал",
+  date: "8 Август, 2024",
   socials: [
     {
       id: 1,
       icon: "fab fa-twitter",
-      href: "#",
+      href: "https://x.com/",
     },
     {
       id: 2,
       icon: "fab fa-facebook",
-      href: "#",
+      href: "https://www.facebook.com/",
     },
 
     {
       id: 4,
       icon: "fab fa-instagram",
-      href: "#",
+      href: "https://www.instagram.com/",
     },
   ],
 };

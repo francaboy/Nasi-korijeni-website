@@ -7,7 +7,7 @@ import ReactPlayer from "react-player";
 const { title, texts, name, category, date, socials } = projectDetails;
 const videoUrl = "https://www.youtube.com/watch?v=KGJybrtmNy8";
 
-const ProjectDetailsPage = () => {
+const Nikola1 = () => {
   return (
     <section className="project-details">
       <Container>
@@ -22,12 +22,16 @@ const ProjectDetailsPage = () => {
           <Row>
             <Col xl={8} lg={7}>
               <div className="project-details__content-left">
-                <h3 className="project-details__content-title">{title}</h3>
-                {texts.map((text, i) => (
-                  <p key={i} className={`project-details__content-text-${i + 1}`}>
-                    {text}
+              <p className="project-details__content-text-1">
+                    Vođeni idejom očuvanja kulturne baštine i tradicije kroz različite kulturne događaje i festivale, a nakon uspješnih organizovanja božićnih koncerata i narodnih zborova koji su okupili ogroman broj ljudi, došli smo na ideju da organizujemo veliki narodni festival – Zavičaj fest, u srcu našeg grada, na tvrđavi Kastel.
+                    </p>
+                    <p className="project-details__content-text-1"> U četvrtak, 8. Avgusta, festival će otvoriti velika regionalna zvjezda Nikola Rokvić, a program će upotpuniti višegodišnji osvajač najprestižnijih nagrada na najvećem saboru trubača u Guči, Dejan Petrović sa Big bendom.
+<br />
+Budite dio jedinstvenog muzičkog događaja koji se po prvi put organizuje na ovim prostorima. Sačuvaj svoje korijene!
+<br />
+Vidimo se na Kastelu!
+
                   </p>
-                ))}
                 <div className="project-details__cta">
                   <a 
                     href="https://gigstix.ba/event/zavicaj-fest-nikola-rokvic-banja-luka-08-avgust-2024/" 
@@ -93,4 +97,4 @@ const ProjectDetailsPage = () => {
   );
 };
 
-export default ProjectDetailsPage;
+export default Nikola1;

@@ -1,16 +1,17 @@
 import Layout from "@/components/Layout/Layout";
 import PageHeader from "@/components/PageHeader/PageHeader";
-import ProjectDetailsPage from "@/components/ProjectDetails/ProjectDetailsPage";
+
+import Nikola1 from "@/components/ProjectDetails/nikola1";
 
 import React from "react";
 
-const ProjectDetails = () => {
+const Nikola = () => {
   return (
     <Layout pageTitle="Детаљи">
       <PageHeader page="Догађаји" title="Детаљи догађаја" />
-      <ProjectDetailsPage />
+      <Nikola1 />
     </Layout>
   );
 };
 
-export default ProjectDetails;
+export default Nikola;

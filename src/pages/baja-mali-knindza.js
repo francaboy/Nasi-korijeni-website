@@ -1,16 +1,19 @@
 import Layout from "@/components/Layout/Layout";
 import PageHeader from "@/components/PageHeader/PageHeader";
-import ProjectDetailsPage from "@/components/ProjectDetails/ProjectDetailsPage";
+import Baja1 from "@/components/ProjectDetails/baja1";
+
+
+import Zorica1 from "@/components/ProjectDetails/zorica1";
 
 import React from "react";
 
-const ProjectDetails = () => {
+const Baja = () => {
   return (
     <Layout pageTitle="Детаљи">
       <PageHeader page="Догађаји" title="Детаљи догађаја" />
-      <ProjectDetailsPage />
+      <Baja1 />
     </Layout>
   );
 };
 
-export default ProjectDetails;
+export default Baja;

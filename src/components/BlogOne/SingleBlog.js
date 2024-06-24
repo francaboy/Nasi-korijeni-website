@@ -24,7 +24,7 @@ const SingleBlog = ({ blog = {} }) => {
             <li>
               <Link href="/blog-details" legacyBehavior>
                 <a>
-                  <i className="far fa-user-circle"></i> By {admin}
+                  <i className="far fa-user-circle"></i> {admin}
                 </a>
               </Link>
             </li>
@@ -34,7 +34,7 @@ const SingleBlog = ({ blog = {} }) => {
             <li>
               <Link href="/blog-details" legacyBehavior>
                 <a>
-                  <i className="far fa-comments"></i> {comments} Comments
+                  <i className="far fa-comments"></i> {comments} Коментара
                 </a>
               </Link>
             </li>
@@ -46,7 +46,7 @@ const SingleBlog = ({ blog = {} }) => {
           </h3>
           <div className="blog-one__read-btn">
             <Link href="/blog-details" legacyBehavior>
-              Read More
+              Више детаља
             </Link>
           </div>
         </div>
