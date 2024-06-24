@@ -37,7 +37,7 @@ const CompanyNumbers = () => {
                   <div className="company-numbers__content">
                     <p className="company-numbers__tagline">{tagline}</p>
                     <h2 className="company-numbers__title">
-                      {title} <span>granice</span>
+                      {title} <span>границе</span>
                     </h2>
                   </div>
                 </div>
