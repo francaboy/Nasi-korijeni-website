@@ -21,7 +21,6 @@ const navItems = [
     href: "/dogadjaji",
     subNavItems: [],
   },
-  
 
   {
     id: 4,
@@ -41,7 +40,7 @@ const navItems = [
 const header = {
   logo1,
   logo2,
-  phone: "066 11 99 77",
+  phone: "066 21 21 22",
   email: "info@nasikorijeni.com",
   phoneIcon,
   navItems,
