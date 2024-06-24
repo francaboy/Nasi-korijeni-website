@@ -13,7 +13,7 @@ const O_nama = () => {
     <Layout pageTitle="О нама">
       <PageHeader page="О нама" title="О нама" />
       <AboutPage />
-      <BrandOne />
+      
       <DesignStudio className="services-page-design-studio" />
       {/* <TestimonialTwo className="about-page-testimonial-two" /> */}
 

@@ -26,7 +26,7 @@ const Home = () => {
       <ProjectTwo />
       <HowItWorks />
 
-      <BrandOne />
+     
 
       <CTAOne />
     </Layout>

@@ -1,6 +1,6 @@
 import ContextProvider from "@/context/ContextProvider";
 import "bootstrap/dist/css/bootstrap.min.css";
-import "swiper/swiper-bundle.min.css";
+
 import "tiny-slider/dist/tiny-slider.css";
 import "@/vendors/animate/animate.min.css";
 import "@/vendors/animate/custom-animate.css";
