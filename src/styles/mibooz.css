@@ -3686,6 +3686,72 @@ ul {
   padding: 120px 0 90px;
 }
 
+.blog-one__container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between; /* Adjust this property for spacing between events */
+  margin: 0 -15px; /* Adjust margin as per your design */
+}
+
+.blog-one__single {
+  width: calc(33.33% - 30px); /* Adjust width for each event */
+  margin: 0 15px 30px; /* Adjust margin as per your design */
+}
+
+.blog-one__img {
+  position: relative;
+}
+
+.blog-one__img img {
+  width: 100%;
+}
+
+.blog-content {
+  padding: 15px;
+  background-color: #f9f9f9; /* Adjust background color as per your design */
+  border: 1px solid #ddd; /* Adjust border as per your design */
+}
+
+.blog-one__meta li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.blog-one__meta li:last-child {
+  margin-right: 0;
+}
+
+.blog-one__title {
+  margin-top: 10px;
+}
+
+.blog-one__read-btn a {
+  color: #007bff; /* Adjust link color as per your design */
+  text-decoration: none;
+}
+
+.blog-one__read-btn a:hover {
+  text-decoration: underline;
+}
+
+/* For mobile view */
+@media (max-width: 767px) {
+  .blog-one__container {
+    justify-content: center; /* Center items horizontally */
+    align-items: center; /* Center items vertically */
+    margin: 0;
+  }
+
+  .blog-one__single {
+    width: 100%; /* Full width for events on smaller screens */
+    margin-bottom: 30px;
+  }
+
+  .blog-one__img img {
+    max-width: 100%; /* Ensure images don't exceed container width */
+  }
+}
+
 .blog-one__single {
   position: relative;
   display: block;
