@@ -5,7 +5,7 @@ import { Col, Container, Row } from "react-bootstrap";
 import ReactPlayer from "react-player";
 
 const { title, texts, name, category, date, socials } = projectDetails;
-const videoUrl = "https://www.youtube.com/watch?v=wZI1zmKK0kk";
+const videoUrl = "https://www.youtube.com/watch?v=qLY1Yakh12Q";
 
 const Baja1 = () => {
   return (
