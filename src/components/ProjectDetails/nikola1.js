@@ -23,14 +23,13 @@ const Nikola1 = () => {
             <Col xl={8} lg={7}>
               <div className="project-details__content-left">
               <p className="project-details__content-text-1">
-                    Vođeni idejom očuvanja kulturne baštine i tradicije kroz različite kulturne događaje i festivale, a nakon uspješnih organizovanja božićnih koncerata i narodnih zborova koji su okupili ogroman broj ljudi, došli smo na ideju da organizujemo veliki narodni festival – Zavičaj fest, u srcu našeg grada, na tvrđavi Kastel.
-                    </p>
-                    <p className="project-details__content-text-1"> U četvrtak, 8. Avgusta, festival će otvoriti velika regionalna zvjezda Nikola Rokvić, a program će upotpuniti višegodišnji osvajač najprestižnijih nagrada na najvećem saboru trubača u Guči, Dejan Petrović sa Big bendom.
+              Вођени идејом очувања културне баштине и традиције кроз различите културне догађаје и фестивале, а након успјешних организовања божићних концерата и народних зборова који су окупили огроман број људи, дошли смо на идеју да организујемо велики народни фестивал – Завичај фест, у срцу нашег града, на тврђави Кастел.
+              </p>
+                    <p className="project-details__content-text-1"> У четвртак, 8. Августа, фестивал ће отворити велика регионална звјезда Никола Роквић, а програм ће употпунити вишегодишњи освајач најпрестижнијих награда на највећем сабору трубача у Гучи, Дејан Петровић са Биг бендом.
 <br />
-Budite dio jedinstvenog muzičkog događaja koji se po prvi put organizuje na ovim prostorima. Sačuvaj svoje korijene!
+Будите дио јединственог музичког догађаја који се по први пут организује на овим просторима. Сачувај своје коријене!
 <br />
-Vidimo se na Kastelu!
-
+Видимо се на Кастелу!
                   </p>
                 <div className="project-details__cta">
                   <a 

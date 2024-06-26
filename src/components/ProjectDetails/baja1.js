@@ -25,13 +25,13 @@ const Baja1 = () => {
                 <h3 className="project-details__content-title">БАЈА МАЛИ КНИНЏА</h3>
                 
                   <p className="project-details__content-text-1">
-                    Vođeni idejom očuvanja kulturne baštine i tradicije kroz različite kulturne događaje i festivale, a nakon uspješnih organizovanja božićnih koncerata i narodnih zborova koji su okupili ogroman broj ljudi, došli smo na ideju da organizujemo veliki narodni festival – Zavičaj fest, u srcu našeg grada, na tvrđavi Kastel.
+                  Вођени идејом очувања културне баштине и традиције кроз различите културне догађаје и фестивале, а након успјешних организовања божићних концерата и народних зборова који су окупили огроман број људи, дошли смо на идеју да организујемо велики народни фестивал – Завичај фест, у срцу нашег града, на тврђави Кастел.
                     </p>
-                   <p className="project-details__content-text-1"> Prvi Zavičaj fest zatvaramo u subotu 10. Avgusta najvećom zvjezdom krajiške muzike i pjesme Bajom Malim Knindžom.
+                   <p className="project-details__content-text-1"> Први Завичај фест затварамо у суботу 10. Августа највећом звјездом крајишке музике и пјесме Бајом Малим Книнџом.
 <br />
-Budite dio jedinstvenog muzičkog događaja koji se po prvi put organizuje na ovim prostorima. Sačuvaj svoje korijene!
+Будите дио јединственог музичког догађаја који се по први пут организује на овим просторима. Сачувај своје коријене!
 <br />
-Vidimo se na Kastelu!
+Видимо се на Кастелу!
 
                   </p>
                 
