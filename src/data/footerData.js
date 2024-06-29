@@ -8,7 +8,7 @@ const footerData = {
   address: "Књаза Милоша 10E",
   city: "Бања Лука, Република Српска",
   year: new Date().getFullYear(),
-  author: "Franca",
+  author: "Srđan.",
   socials: [
     {
       id: 1,
