@@ -39,7 +39,8 @@ const MainSliderTwo = () => {
                 <div className="main-slider-two__content">
                   <h2 className="animated fadeInUp">
                     Udruženje <br /> građana <br />
-                    &quot;Naši korijeni&quot;
+                    &quot;Naši korijeni&quot; <br />
+                    Banja Luka
                   </h2>
                   <div className="main-slider-two__btn-video animated fadeInUp">
                     <div className="main-slider-two__btn">
