@@ -1,4 +1,3 @@
-import bg from "@/images/backgrounds/page-header-bg.jpg";
 import Link from "next/link";
 import React from "react";
 import { Container } from "react-bootstrap";
@@ -8,7 +7,7 @@ const PageHeader = ({ page = "", title = "", parent = "" }) => {
     <section className="page-header">
       <div
         className="page-header-bg"
-        style={{ backgroundImage: `url(${bg.src})` }}
+        
       ></div>
       <Container>
         <div className="page-header__inner">
