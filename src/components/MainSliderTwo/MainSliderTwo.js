@@ -38,9 +38,9 @@ const MainSliderTwo = () => {
               <Col lg={7}>
                 <div className="main-slider-two__content">
                   <h2 className="animated fadeInUp">
-                    Udruženje <br /> građana <br />
-                    &quot;Naši korijeni&quot; <br />
-                    Banja Luka
+                    Удружење <br /> грађана <br />
+                    &quot;Наши коријени&quot; <br />
+                    Бања Лука
                   </h2>
                   <div className="main-slider-two__btn-video animated fadeInUp">
                     <div className="main-slider-two__btn">
