@@ -3,7 +3,7 @@ import bg from "@/images/shapes/site-footer-top-shape.png";
 const footerData = {
   bg,
   title: "Слободно нас позовите",
-  phone: "066 21 21 22 | 066 25 25 22",
+  phone: "065 21 21 22 | 065 25 25 22",
   email: "info@nasikorijeni.com",
   address: "Књаза Милоша 10E",
   city: "Бања Лука, Република Српска",
